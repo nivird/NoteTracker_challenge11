@@ -53,10 +53,10 @@ Fork the repository.
 1. created in the main branch
 2. Commit your changes:
 
-git commit -m 'Add some feature'
+git commit -m "my commited messages"
 3. Push to the branch:
 
-git push origin feature/your-feature-name
+git push
 Open a pull request.
 
 
