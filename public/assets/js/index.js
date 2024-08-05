@@ -1,9 +1,8 @@
-let noteForm; //variables are
+let noteForm;
 let noteTitle;
 let noteText;
 let saveNoteBtn;
 let newNoteBtn;
-let clearBtn; //delete button variable is declared here
 let noteList;
 
 if (window.location.pathname === '/notes') {
